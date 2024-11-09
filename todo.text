@@ -1,0 +1,42 @@
+1. Project Structure 
+2. Controllers File Function
+3. API End Point Defination
+4. Payment System Utility Functions
+5. Create Model Files 
+    -categoriesModel
+    -brandsModel
+    -productsModel
+    -slidersModel
+    -reviewsModel
+    -detailsModel
+    -wishesModel
+    -usersModel
+    -profilesModel
+    -invoicesModel
+    -invoiceProductsModel
+6. Understanding the payment methods flow
+7. Database Collection/Table -----> Model
+8. Postman Defination
+9. Demo Data Insert for Brands Category & Products
+10. Brandlist
+11. Categorylist
+12. ProductListBySliderr
+13. ProductListByCategory 
+14. ProductListByRemark
+15. ProductListByBrand
+16. ProductDetailsByID
+17. ProducListbyKeyword
+18. ProductReviewList
+19. Login
+29. VerifyLogin
+30. CreateProfile
+31. UpdateProfile
+32. ReadProfile
+33. CreateWish
+34. ReadWish
+35. RemoveWish
+33. CreateCart
+34. ReadCart
+35. RemoveCart
+36. UpdateCart
+37. Create Reviews 
